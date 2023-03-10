@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestAzureServiceBus", "TestAzureServiceBus\TestAzureServiceBus.csproj", "{ACEE54D2-07AD-494F-A6F3-68A26E277A39}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ACEE54D2-07AD-494F-A6F3-68A26E277A39}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ACEE54D2-07AD-494F-A6F3-68A26E277A39}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ACEE54D2-07AD-494F-A6F3-68A26E277A39}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ACEE54D2-07AD-494F-A6F3-68A26E277A39}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
